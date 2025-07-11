@@ -1,4 +1,4 @@
-# Bem Estar Animal - App para Clínica Veterinária
+# Bem Estar Animal - Clínica Veterinária
 
 ![Tecnologia](https://img.shields.io/badge/feito%20com-Flutter-blue)
 
