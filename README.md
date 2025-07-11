@@ -1,6 +1,5 @@
 # Bem Estar Animal - App para Clínica Veterinária
 
-![Plataforma](https://img.shields.io/badge/plataforma-iOS%20%7C%20Android-9cf)
 ![Tecnologia](https://img.shields.io/badge/feito%20com-Flutter-blue)
 
 **Bem Estar Animal** é um aplicativo multiplataforma completo para a gestão de clínicas veterinárias, desenvolvido com Dart e Flutter. O projeto foi criado para otimizar e centralizar a rotina de uma clínica, oferecendo uma experiência de usuário fluida e intuitiva tanto para a equipe quanto para os clientes.
